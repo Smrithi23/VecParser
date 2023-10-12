@@ -1,0 +1,1 @@
+R[i][j] += A[i][k]*B[k][j]- (A[i][k]*B[k][j]>thres[j])*A[i][k]*B[k][j]*dis[j];
